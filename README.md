@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dippy
 - 👀 I’m interested in AI and Game Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on anything ;(
 - 📫 How to reach me on ig (@pradippy.nxs)
 - ⚡ Fun fact: i workout 🤷
