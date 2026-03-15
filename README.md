@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dippy
-- 👀 I’m interested in AI and System Performance Optimization
-- 🌱 I’m currently learning C++ and Next.js
+- 👀 I’m interested in AI and Low-level Systems Programming
+- 🌱 I’m currently learning C and Rust(eventually)
 - 💞️ I’m looking to collaborate on anything ;(
 - 📫 How to reach me on ig (@pradippy.nxs)
 - ⚡ Fun fact: i workout 🤷
